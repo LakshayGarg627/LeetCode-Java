@@ -16,9 +16,9 @@ class Solution {
                 break;
             }
         }
-        // if(sb.toString().equals(part)){
-        //     return "";
-        // }
+        if(sb.toString().equals(part)){
+            return "";
+        }
         return sb.toString();
     }
 }
