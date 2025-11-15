@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0921-spiral-matrix-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0921-spiral-matrix-iii) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Number Theory
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0921-spiral-matrix-iii) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Union Find
 |  |
 | ------- |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3659-count-paths-with-the-given-xor-value) |
 <!---LeetCode Topics End-->
