@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
