@@ -3,12 +3,13 @@ class Solution {
         int n=chars.length;
         StringBuilder sb=new StringBuilder("");
         for(int i=0;i<n;i++){
+            sb.append(chars[i]);
             int count=1;
             while(i<n-1 && chars[i]==chars[i+1]){
                 count++;
                 i++;
             }
-            sb.append(chars[i]);
+            
             if(count>1){
                 sb.append(count);
             }
