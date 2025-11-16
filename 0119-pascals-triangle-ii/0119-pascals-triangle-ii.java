@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        int dp[][]=new int[1000][1000];
-        for(int i=0;i<1000;i++){
+        int dp[][]=new int[rowIndex+1][rowIndex+1];
+        for(int i=0;i<=rowIndex;i++){
             List<Integer> temp=new ArrayList<>();
             for(int j=0;j<=i;j++){
                 if(j==0 || j==i){
