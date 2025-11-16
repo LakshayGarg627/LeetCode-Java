@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0047-permutations-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3659-count-paths-with-the-given-xor-value) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
