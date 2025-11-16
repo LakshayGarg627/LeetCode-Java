@@ -1,3 +1,4 @@
+// Best
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         StringBuilder sb=new StringBuilder("");
@@ -14,7 +15,7 @@ class Solution {
         return sb.toString();
     }
 }
-
+// Sorting-expensive in large tc
 // class Solution {
 //     public String longestCommonPrefix(String[] strs) {
 //         Arrays.sort(strs);
