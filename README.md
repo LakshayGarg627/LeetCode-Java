@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -16,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3451-string-compression-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3451-string-compression-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
