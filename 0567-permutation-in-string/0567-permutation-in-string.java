@@ -1,29 +1,57 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int freq[]=new int[26];
-        for(int i=0;i<s1.length();i++){
-            freq[s1.charAt(i)-'a']++;
+        if(s1.length()>s2.length()){
+            return false;
         }
-        for(int i=0;i<s2.length()-s1.length()+1;i++){
-            String substr=s2.substring(i,i+s1.length());
-            int window[]=new int[26];
-            for(int j=0;j<substr.length();j++){
-                window[substr.charAt(j)-'a']++;
-            }
-            boolean flag=true;
-            for(int j=0;j<26;j++){
-                if(window[j]!=freq[j]){
-                    flag=false;
-                    break;
-                }
-            }
-            if(flag){
+        int freq1[]=new int[26];
+        int freq2[]=new int[26];
+        for(int i=0;i<s1.length();i++){
+            freq1[s1.charAt(i)-'a']++;
+        }
+        int windowSize=s1.length();
+        for(int i=0;i<windowSize;i++){
+            freq2[s2.charAt(i)-'a']++;
+        }
+        if(Arrays.equals(freq1,freq2)){
+            return true;
+        } 
+        for(int i=windowSize;i<s2.length();i++){
+            freq2[s2.charAt(i)-'a']++;
+            freq2[s2.charAt(i-windowSize)-'a']--;
+            if(Arrays.equals(freq1,freq2)){
                 return true;
-            }
+            } 
         }
         return false;
     }
 }
+
+// class Solution {
+//     public boolean checkInclusion(String s1, String s2) {
+//         int freq[]=new int[26];
+//         for(int i=0;i<s1.length();i++){
+//             freq[s1.charAt(i)-'a']++;
+//         }
+//         for(int i=0;i<s2.length()-s1.length()+1;i++){
+//             String substr=s2.substring(i,i+s1.length());
+//             int window[]=new int[26];
+//             for(int j=0;j<substr.length();j++){
+//                 window[substr.charAt(j)-'a']++;
+//             }
+//             boolean flag=true;
+//             for(int j=0;j<26;j++){
+//                 if(window[j]!=freq[j]){
+//                     flag=false;
+//                     break;
+//                 }
+//             }
+//             if(flag){
+//                 return true;
+//             }
+//         }
+//         return false;
+//     }
+// }
 // All permutation based approach - TLE
 // class Solution {
 //     boolean found=false;
