@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0047-permutations-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0119-pascals-triangle-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
