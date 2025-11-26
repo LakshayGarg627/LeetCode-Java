@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0921-spiral-matrix-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0921-spiral-matrix-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
