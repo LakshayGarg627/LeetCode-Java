@@ -1,27 +1,15 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int result[]=new int[m+n];
-        int i=0;
-        int j=0;
+        PriorityQueue<Integer> pq=new PriorityQueue<>();
+        for(int i=0;i<m;i++){
+            pq.add(nums1[i]);
+        }
+        for(int i=0;i<n;i++){
+            pq.add(nums2[i]);
+        }
         int k=0;
-        while(i<m && j<n){
-            if(nums1[i]>=nums2[j]){
-                result[k++]=nums2[j++];
-            }
-            else{
-                result[k++]=nums1[i++];
-            }
+        while(!pq.isEmpty()){
+            nums1[k++]=pq.poll();
         }
-        while(i<m){
-            result[k++]=nums1[i++];
-        }
-        while(j<n){
-            result[k++]=nums2[j++];
-        }
-
-        for(int a=0;a<m+n;a++){
-            nums1[a]=result[a];
-        }
-
     }
 }
