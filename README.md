@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0432-all-oone-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0206-reverse-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0432-all-oone-data-structure) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
@@ -180,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0432-all-oone-data-structure) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0295-find-median-from-data-stream) |
+| [0432-all-oone-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0432-all-oone-data-structure) |
 ## Greedy
 |  |
 | ------- |
