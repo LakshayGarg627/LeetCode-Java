@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0047-permutations-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
