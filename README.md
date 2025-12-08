@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0013-roman-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0994-rotting-oranges) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
