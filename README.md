@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2211-count-collisions-on-a-road](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2211-count-collisions-on-a-road) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3451-string-compression-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3451-string-compression-iii) |
 ## Sliding Window
 |  |
@@ -158,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Backtracking
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0052-n-queens-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
