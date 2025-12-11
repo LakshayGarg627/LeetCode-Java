@@ -1,46 +1,36 @@
 class Solution {
     public int countCoveredBuildings(int n, int[][] buildings) {
-
-        int[] leftmost = new int[n+1];
-        int[] rightmost = new int[n+1];
-        int[] topmost = new int[n+1];
-        int[] bottommost = new int[n+1];
-
-        // Initialize
-        for(int i=1;i<=n;i++){
-            leftmost[i] = Integer.MAX_VALUE;
-            topmost[i] = Integer.MAX_VALUE;
+        int leftMost[]=new int[n+1];
+        int RightMost[]=new int[n+1];
+        int TopMost[]=new int[n+1];
+        int bottomMost[]=new int[n+1];
+        for(int i=1;i<n+1;i++){
+            leftMost[i]=Integer.MAX_VALUE;
+            TopMost[i]=Integer.MAX_VALUE;
         }
+        for(int i=0;i<buildings.length;i++){
+            int a=buildings[i][0];
+            int b=buildings[i][1];
 
-        // Build boundaries
+            leftMost[a]=Math.min(b,leftMost[a]);
+            RightMost[a]=Math.max(b,RightMost[a]);
+            TopMost[b]=Math.min(a,TopMost[b]);
+            bottomMost[b]=Math.max(a,bottomMost[b]);
+        }
+        int count=0;
         for(int[] b : buildings){
             int r = b[0];
             int c = b[1];
 
-            leftmost[r] = Math.min(leftmost[r], c);
-            rightmost[r] = Math.max(rightmost[r], c);
-
-            topmost[c] = Math.min(topmost[c], r);
-            bottommost[c] = Math.max(bottommost[c], r);
-        }
-
-        int count = 0;
-
-        // Check each building
-        for(int[] b : buildings){
-            int r = b[0];
-            int c = b[1];
-
-            boolean hasLeft = leftmost[r] < c;
-            boolean hasRight = rightmost[r] > c;
-            boolean hasTop = topmost[c] < r;
-            boolean hasBottom = bottommost[c] > r;
+            boolean hasLeft = leftMost[r] < c;
+            boolean hasRight = RightMost[r] > c;
+            boolean hasTop = TopMost[c] < r;
+            boolean hasBottom = bottomMost[c] > r;
 
             if(hasLeft && hasRight && hasTop && hasBottom){
                 count++;
             }
         }
-
         return count;
     }
 }
