@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [0921-spiral-matrix-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0921-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3531-count-covered-buildings](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3531-count-covered-buildings) |
 ## Trie
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,10 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -278,4 +283,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1856-maximum-subarray-min-product) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
