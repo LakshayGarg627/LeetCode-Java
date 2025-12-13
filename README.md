@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0165-compare-version-numbers) |
+| [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0063-unique-paths-ii) |
+| [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0921-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0994-rotting-oranges) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
