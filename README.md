@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0165-compare-version-numbers) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0344-reverse-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0119-pascals-triangle-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
