@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2288-count-operations-to-obtain-zero) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
+| [0509-fibonacci-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
