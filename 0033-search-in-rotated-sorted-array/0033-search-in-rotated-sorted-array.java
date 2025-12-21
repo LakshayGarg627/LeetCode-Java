@@ -1,28 +1,33 @@
 class Solution {
-    public int search(int[] arr, int target) {
-        int n=arr.length;
-        int start=0;
-        int end=n-1;
-        while(start<=end){
-            int mid=start+(end-start)/2;
-            if(arr[mid]==target){
-                return mid;
-            }
+    public int find(int arr[],int start,int end,int target){
+        if(start>end){
+            return -1;
+        }
+        int mid=start+(end-start)/2;
 
-            if(arr[mid]>=arr[start]){
-                if(arr[start]<=target && arr[mid]>=target){
-                    end=mid-1;
-                }else{
-                    start=mid+1;
-                }
+        if(arr[mid]==target){
+            return mid;
+        }
+
+        // mid on L1
+        if(arr[start]<=arr[mid]){
+            if(arr[start]<=target && target<=arr[mid]){
+                return find(arr,start,mid,target);
             }else{
-                if(arr[mid]<=target && arr[end]>=target){
-                    start=mid+1;
-                }else{
-                    end=mid-1;
-                }
+                return find(arr,mid+1,end,target);
             }
         }
-        return -1;
+        // mid on L2
+        else{
+            if(arr[mid]<=target && target<=arr[end]){
+                return find(arr,mid+1,end,target);
+            }else{
+                return find(arr,start,mid,target);
+            }
+        }
+    }
+    public int search(int[] nums, int target) {
+        int n=nums.length;
+        return find(nums,0,n-1,target);
     }
 }
