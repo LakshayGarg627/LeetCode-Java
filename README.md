@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1856-maximum-subarray-min-product](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1856-maximum-subarray-min-product) |
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Number Theory
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [3531-count-covered-buildings](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3531-count-covered-buildings) |
 ## Trie
 |  |
