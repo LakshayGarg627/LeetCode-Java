@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0101-symmetric-tree) |
 | [0994-rotting-oranges](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Enumeration
@@ -348,11 +350,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
