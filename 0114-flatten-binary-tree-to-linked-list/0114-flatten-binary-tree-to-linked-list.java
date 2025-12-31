@@ -23,6 +23,9 @@ class Solution {
         preorder(root.right,temp);
     }
     public void flatten(TreeNode root) {
+        if(root==null){
+            return;
+        }
         ArrayList<TreeNode> temp=new ArrayList<>();
         preorder(root,temp);
         
