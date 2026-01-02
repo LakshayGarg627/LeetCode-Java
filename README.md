@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0146-lru-cache) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0173-binary-search-tree-iterator) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0173-binary-search-tree-iterator) |
