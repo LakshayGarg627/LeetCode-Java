@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0165-compare-version-numbers) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
+| [0273-integer-to-english-words](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0013-roman-to-integer) |
+| [0273-integer-to-english-words](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1925-count-square-sum-triples) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0206-reverse-linked-list) |
+| [0273-integer-to-english-words](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
