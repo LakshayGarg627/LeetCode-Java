@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0216-combination-sum-iii) |
 | [0312-burst-balloons](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0312-burst-balloons](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0509-fibonacci-number) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0994-rotting-oranges) |
