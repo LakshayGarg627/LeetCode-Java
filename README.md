@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0460-lfu-cache) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
