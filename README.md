@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1856-maximum-subarray-min-product](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1856-maximum-subarray-min-product) |
 ## Merge Sort
