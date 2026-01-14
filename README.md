@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1306-jump-game-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1306-jump-game-iii) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1856-maximum-subarray-min-product](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1856-maximum-subarray-min-product) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1306-jump-game-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1306-jump-game-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1306-jump-game-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1306-jump-game-iii) |
 ## Enumeration
 |  |
 | ------- |
