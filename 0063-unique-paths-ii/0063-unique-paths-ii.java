@@ -1,14 +1,12 @@
 class Solution {
     public int helper(int grid[][],int i,int j,int n,int m,int dp[][]){
-        if(i>=n || j>=m ){
+        if(i>=n || j>=m || grid[i][j]==1){
             return 0;
         }
         if(i==n-1 && j==m-1 && grid[i][j]!=1){
             return 1;
         }
-        if(grid[i][j]==1){
-            return 0;
-        }
+        
         if(dp[i][j]!=-1){
             return dp[i][j];
         }
