@@ -1,10 +1,11 @@
 class Solution {
-    public String sort(String s){
-        char ch[]=s.toCharArray();
+    public String sort(String str){
+        char ch[]=str.toCharArray();
         Arrays.sort(ch);
         return new String(ch);
     }
     public List<List<String>> groupAnagrams(String[] strs) {
+        List<List<String>> result=new ArrayList<>();
         int n=strs.length;
         HashMap<String,List<String>> map=new HashMap<>();
         for(int i=0;i<n;i++){
@@ -14,13 +15,79 @@ class Solution {
             }
             map.get(s).add(strs[i]);
         }
-        List<List<String>> result=new ArrayList<>();
+
         for(String key:map.keySet()){
-            result.add(map.get(key));
+            List<String> temp=map.get(key);
+            result.add(temp);
         }
         return result;
     }
 }
+
+
+// class Solution {
+//     public boolean isAnagram(String a, String b) {
+//         if (a.length() != b.length()) return false;
+
+//         char[] x = a.toCharArray();
+//         char[] y = b.toCharArray();
+
+//         Arrays.sort(x);
+//         Arrays.sort(y);
+
+//         return Arrays.equals(x, y);
+//     }
+
+//     public List<List<String>> groupAnagrams(String[] strs) {
+//         int n = strs.length;
+//         boolean[] visited = new boolean[n];
+//         List<List<String>> result = new ArrayList<>();
+
+//         for (int i = 0; i < n; i++) {
+//             if (visited[i]) continue;
+
+//             List<String> group = new ArrayList<>();
+//             group.add(strs[i]);
+//             visited[i] = true;
+
+//             for (int j = i + 1; j < n; j++) {
+//                 if (!visited[j] && isAnagram(strs[i], strs[j])) {
+//                     group.add(strs[j]);
+//                     visited[j] = true;
+//                 }
+//             }
+
+//             result.add(group);
+//         }
+
+//         return result;
+//     }
+// }
+
+
+// class Solution {
+//     public String sort(String s){
+//         char ch[]=s.toCharArray();
+//         Arrays.sort(ch);
+//         return new String(ch);
+//     }
+//     public List<List<String>> groupAnagrams(String[] strs) {
+//         int n=strs.length;
+//         HashMap<String,List<String>> map=new HashMap<>();
+//         for(int i=0;i<n;i++){
+//             String s=sort(strs[i]);
+//             if(!map.containsKey(s)){
+//                 map.put(s,new ArrayList<>());
+//             }
+//             map.get(s).add(strs[i]);
+//         }
+//         List<List<String>> result=new ArrayList<>();
+//         for(String key:map.keySet()){
+//             result.add(map.get(key));
+//         }
+//         return result;
+//     }
+// }
 
 // class Solution {
 //     class Node{
