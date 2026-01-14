@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
