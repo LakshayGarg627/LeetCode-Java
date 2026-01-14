@@ -46,7 +46,7 @@ class Solution {
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         idx=0;
         reverse(postorder);
-        System.out.println(Arrays.toString(postorder));
+        
         return helper(inorder,postorder,0,inorder.length-1);
     }
 }
