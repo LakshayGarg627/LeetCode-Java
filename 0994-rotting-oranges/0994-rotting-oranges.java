@@ -9,16 +9,15 @@ class Solution {
             this.time=time;
         }
     }
-    public boolean isValid(int i,int j,int n,int m){
-        return i>=0 && i<n && j>=0 && j<m; 
+    public boolean isValid(int i,int j,int x,int y){
+        return i>=0 && i<x && j>=0 && j<y;
     }
-    public int calculate(int grid[][],int n,int m,boolean visited[][]){
+    public int helper(int grid[][],int n,int m,boolean visited[][]){
         Queue<Info> q=new LinkedList<>();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==2){
                     q.add(new Info(i,j,0));
-                    visited[i][j]=true;
                 }
             }
         }
@@ -28,26 +27,25 @@ class Solution {
             int x=curr.x;
             int y=curr.y;
             int time=curr.time;
-            minTime=Math.max(time,minTime);
-
-            if(isValid(x+1,y,n,m) && grid[x+1][y]==1 && !visited[x+1][y]){
-                grid[x+1][y]=2;
+            minTime=Math.max(minTime,time);
+            if(isValid(x+1,y,n,m) && !visited[x+1][y] && grid[x+1][y]==1){
                 visited[x+1][y]=true;
+                grid[x+1][y]=2;
                 q.add(new Info(x+1,y,time+1));
             }
-            if(isValid(x-1,y,n,m) && grid[x-1][y]==1 && !visited[x-1][y]){
-                grid[x-1][y]=2;
+            if(isValid(x-1,y,n,m) && !visited[x-1][y] && grid[x-1][y]==1){
                 visited[x-1][y]=true;
+                grid[x-1][y]=2;
                 q.add(new Info(x-1,y,time+1));
             }
-            if(isValid(x,y+1,n,m) && grid[x][y+1]==1 && !visited[x][y+1]){
-                grid[x][y+1]=2;
+            if(isValid(x,y+1,n,m) && !visited[x][y+1] && grid[x][y+1]==1){
                 visited[x][y+1]=true;
+                grid[x][y+1]=2;
                 q.add(new Info(x,y+1,time+1));
             }
-            if(isValid(x,y-1,n,m) && grid[x][y-1]==1 && !visited[x][y-1]){
-                grid[x][y-1]=2;
+            if(isValid(x,y-1,n,m) && !visited[x][y-1] && grid[x][y-1]==1){
                 visited[x][y-1]=true;
+                grid[x][y-1]=2;
                 q.add(new Info(x,y-1,time+1));
             }
         }
@@ -63,11 +61,159 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         int n=grid.length;
         int m=grid[0].length;
+
         boolean visited[][]=new boolean[n][m];
-        int rotten=calculate(grid,n,m,visited);
+        int rotten=helper(grid,n,m,visited);
         return rotten;
     }
 }
+
+// class Solution {
+    // class Info{
+    //     int x;
+    //     int y;
+    //     int time;
+    //     Info(int x,int y,int time){
+    //         this.x=x;
+    //         this.y=y;
+    //         this.time=time;
+    //     }
+    // }
+    // public boolean isValid(int i,int j,int x,int y){
+    //     return i>=0 && i<x && j>=0 && j<y;
+    // }
+//     public int helper(int grid[][],int n,int m,boolean visited[][]){
+//         Queue<Info> q=new LinkedList<>();
+//         for(int i=0;i<n;i++){
+//             for(int j=0;j<m;j++){
+//                 if(grid[i][j]==2){
+//                     q.add(new Info(i,j,0));
+//                 }
+//             }
+//         }
+//         int minTime=0;
+//         while(!q.isEmpty()){
+//             Info curr=q.poll();
+//             int x=curr.x;
+//             int y=curr.y;
+//             int currTime=curr.time;
+//             minTime=Math.max(minTime,currTime);
+
+//             if(isValid(x+1,y,n,m) && !visited[x+1][y] && grid[x+1][y]==1){
+//                 visited[x+1][y]=true;
+//                 grid[x+1][y]=2;
+
+//                 q.add(new Info(x+1,y,currTime+1));
+//             }
+//             if(isValid(x-1,y,n,m) && !visited[x-1][y] && grid[x-1][y]==1){
+//                 visited[x-1][y]=true;
+//                 grid[x-1][y]=2;
+
+//                 q.add(new Info(x-1,y,currTime+1));
+//             }
+//             if(isValid(x,y+1,n,m) && !visited[x][y+1] && grid[x][y+1]==1){
+//                 visited[x][y+1]=true;
+//                 grid[x][y+1]=2;
+
+//                 q.add(new Info(x,y+1,currTime+1));
+//             }
+//             if(isValid(x,y-1,n,m) && !visited[x][y-1] && grid[x][y-1]==1){
+//                 visited[x][y-1]=true;
+//                 grid[x][y-1]=2;
+
+//                 q.add(new Info(x,y-1,currTime+1));
+//             }
+//         }
+//         for(int i=0;i<n;i++){
+//             for(int j=0;j<m;j++){
+//                 if(grid[i][j]==1){
+//                     return -1;
+//                 }
+//             }
+//         }
+//         return minTime;
+
+//     }
+//     public int orangesRotting(int[][] grid) {
+//         int n=grid.length;
+//         int m=grid[0].length;
+//         boolean visited[][]=new boolean[n][m];
+//         int rotten=helper(grid,n,m,visited);
+//         return rotten;
+//     }
+// }
+
+
+// class Solution {
+//     class Info{
+//         int x;
+//         int y;
+//         int time;
+//         Info(int x,int y,int time){
+//             this.x=x;
+//             this.y=y;
+//             this.time=time;
+//         }
+//     }
+//     public boolean isValid(int i,int j,int n,int m){
+//         return i>=0 && i<n && j>=0 && j<m; 
+//     }
+//     public int calculate(int grid[][],int n,int m,boolean visited[][]){
+//         Queue<Info> q=new LinkedList<>();
+//         for(int i=0;i<n;i++){
+//             for(int j=0;j<m;j++){
+//                 if(grid[i][j]==2){
+//                     q.add(new Info(i,j,0));
+//                     visited[i][j]=true;
+//                 }
+//             }
+//         }
+//         int minTime=0;
+//         while(!q.isEmpty()){
+//             Info curr=q.poll();
+//             int x=curr.x;
+//             int y=curr.y;
+//             int time=curr.time;
+//             minTime=Math.max(time,minTime);
+
+//             if(isValid(x+1,y,n,m) && grid[x+1][y]==1 && !visited[x+1][y]){
+//                 grid[x+1][y]=2;
+//                 visited[x+1][y]=true;
+//                 q.add(new Info(x+1,y,time+1));
+//             }
+//             if(isValid(x-1,y,n,m) && grid[x-1][y]==1 && !visited[x-1][y]){
+//                 grid[x-1][y]=2;
+//                 visited[x-1][y]=true;
+//                 q.add(new Info(x-1,y,time+1));
+//             }
+//             if(isValid(x,y+1,n,m) && grid[x][y+1]==1 && !visited[x][y+1]){
+//                 grid[x][y+1]=2;
+//                 visited[x][y+1]=true;
+//                 q.add(new Info(x,y+1,time+1));
+//             }
+//             if(isValid(x,y-1,n,m) && grid[x][y-1]==1 && !visited[x][y-1]){
+//                 grid[x][y-1]=2;
+//                 visited[x][y-1]=true;
+//                 q.add(new Info(x,y-1,time+1));
+//             }
+//         }
+//         for(int i=0;i<n;i++){
+//             for(int j=0;j<m;j++){
+//                 if(grid[i][j]==1){
+//                     return -1;
+//                 }
+//             }
+//         }
+//         return minTime;
+//     }
+//     public int orangesRotting(int[][] grid) {
+//         int n=grid.length;
+//         int m=grid[0].length;
+//         boolean visited[][]=new boolean[n][m];
+//         int rotten=calculate(grid,n,m,visited);
+//         return rotten;
+//     }
+// }
 
 // class Solution {
 //     class Info{
