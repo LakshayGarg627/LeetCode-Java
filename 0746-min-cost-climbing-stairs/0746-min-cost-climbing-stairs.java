@@ -1,7 +1,10 @@
 class Solution {
     public int helper(int cost[],int n,int idx,int dp[]){
-        if(idx>=n){
+        if(idx==n){
             return 0;
+        }
+        if(idx>n){
+            return Integer.MAX_VALUE;
         }
         if(dp[idx]!=-1){
             return dp[idx];
