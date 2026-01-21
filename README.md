@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0165-compare-version-numbers) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0344-reverse-string) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0543-diameter-of-binary-tree) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0460-lfu-cache) |
