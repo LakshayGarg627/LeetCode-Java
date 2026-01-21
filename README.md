@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0202-happy-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0165-compare-version-numbers) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0273-integer-to-english-words) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0216-combination-sum-iii) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
 | [0312-burst-balloons](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0377-combination-sum-iv) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -269,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
@@ -418,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
