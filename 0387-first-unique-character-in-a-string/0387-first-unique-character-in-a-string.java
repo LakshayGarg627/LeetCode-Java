@@ -1,20 +1,19 @@
 class Solution {
     public int firstUniqChar(String s) {
-        LinkedHashMap<Character,Integer> map=new LinkedHashMap<>();
         int n=s.length();
+        Queue<Character> q=new LinkedList<>();
+        int freq[]=new int[26];
         for(int i=0;i<n;i++){
             char ch=s.charAt(i);
-            map.put(ch,map.getOrDefault(ch,0)+1);
-        }
-        char ch='.';
-        for(Character key:map.keySet()){
-            if(map.get(key)==1){
-                ch=key;
-                break;
+            q.add(ch);
+            freq[ch-'a']++;
+            while(!q.isEmpty() && freq[q.peek()-'a']>1){
+                q.remove();
             }
+            
         }
-        for(int i=0;i<n;i++){
-            if(ch==s.charAt(i)){
+        for(int i=0;i<s.length();i++){
+            if(!q.isEmpty() && s.charAt(i)==q.peek()){
                 return i;
             }
         }
