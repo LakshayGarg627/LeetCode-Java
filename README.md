@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0090-subsets-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
