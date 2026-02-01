@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Math
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0322-coin-change) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Breadth-First Search
@@ -506,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0062-unique-paths) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
