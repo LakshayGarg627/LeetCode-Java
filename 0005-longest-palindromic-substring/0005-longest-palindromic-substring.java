@@ -3,35 +3,65 @@ class Solution {
         String ans="";
         int n=s.length();
         for(int i=0;i<n;i++){
+            
             int left=i;
             int right=i;
-
             while(left>=0 && right<n && s.charAt(left)==s.charAt(right)){
                 left--;
                 right++;
             }
-            
-
             String palindrome=s.substring(left+1,right);
             if(palindrome.length()>ans.length()){
                 ans=palindrome;
             }
-
+        
             left=i;
             right=i+1;
-             while(left>=0 && right<n && s.charAt(left)==s.charAt(right)){
+            while(left>=0 && right<n && s.charAt(left)==s.charAt(right)){
                 left--;
                 right++;
             }
-            
             palindrome=s.substring(left+1,right);
             if(palindrome.length()>ans.length()){
                 ans=palindrome;
             }
+            
         }
         return ans;
     }
 }
+
+// class Solution {
+//     public String longestPalindrome(String s) {
+//         String ans="";
+//         int n=s.length();
+//         for(int i=0;i<n;i++){
+//             int left=i;
+//             int right=i;
+//             while(left>=0 && right<n && s.charAt(left)==s.charAt(right)){
+//                 left--;
+//                 right++;
+//             }
+//             String palindrome=s.substring(left+1,right);
+//             if(palindrome.length()>ans.length()){
+//                 ans=palindrome;
+//             }
+
+//             left=i;
+//             right=i+1;
+//              while(left>=0 && right<n && s.charAt(left)==s.charAt(right)){
+//                 left--;
+//                 right++;
+//             }
+            
+//             palindrome=s.substring(left+1,right);
+//             if(palindrome.length()>ans.length()){
+//                 ans=palindrome;
+//             }
+//         }
+//         return ans;
+//     }
+// }
 
 // BRUTE FORCE
 
