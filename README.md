@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0063-unique-paths-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0119-pascals-triangle-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
