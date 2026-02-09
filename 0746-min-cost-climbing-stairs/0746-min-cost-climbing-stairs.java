@@ -1,27 +1,29 @@
 class Solution {
-    public int helper(int cost[],int n,int idx,int dp[]){
-        if(idx==n){
+    public int helper(int costs[],int start,int dp[],int n){
+        
+        if(start>=n){
             return 0;
         }
-        if(idx>n){
-            return Integer.MAX_VALUE;
+        if(dp[start]!=-1){
+            return dp[start];
         }
-        if(dp[idx]!=-1){
-            return dp[idx];
-        }
-        int way1=helper(cost,n,idx+1,dp);
-        int way2=helper(cost,n,idx+2,dp);
-        dp[idx]=cost[idx]+Math.min(way1,way2);
+        int way1=helper(costs,start+1,dp,n);
+        int way2=helper(costs,start+2,dp,n);
 
-        return dp[idx];
+        dp[start]=costs[start]+Math.min(way1,way2);
+
+        return dp[start];
     }
     public int minCostClimbingStairs(int[] cost) {
         int n=cost.length;
-        int dp[]=new int[n+1];
+        int dp[]=new int[n];
         Arrays.fill(dp,-1);
-        return Math.min(helper(cost,n,0,dp),helper(cost,n,1,dp));
+
+        return Math.min(helper(cost,0,dp,n),helper(cost,1,dp,n));
     }
 }
+
+
 
 // class Solution {
 //     public int helper(int cost[],int dp[],int i){
