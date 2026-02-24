@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1306-jump-game-iii) |
 ## Doubly-Linked List
 |  |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
