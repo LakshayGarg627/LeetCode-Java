@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1004-max-consecutive-ones-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0921-spiral-matrix-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1856-maximum-subarray-min-product](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1856-maximum-subarray-min-product) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
