@@ -17,10 +17,7 @@ class Solution {
                 }
                 left++;
             }
-            if(map.size()<=2){
-                maxFruit=Math.max(maxFruit,right-left+1);
-            }
-            
+            maxFruit=Math.max(maxFruit,right-left+1);
        } 
        return maxFruit;
     }
