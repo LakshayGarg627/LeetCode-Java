@@ -1,9 +1,7 @@
 class Solution {
     public int totalFruit(int[] fruits) {
        int n=fruits.length;
-       if(n==1 || n==2){
-        return n;
-       }
+       
        HashMap<Integer,Integer> map=new HashMap<>();
        
        int left=0;
