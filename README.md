@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0904-fruit-into-baskets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3531-count-covered-buildings](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3531-count-covered-buildings) |
 | [3843-first-element-with-unique-frequency](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3843-first-element-with-unique-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0904-fruit-into-baskets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [0921-spiral-matrix-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0921-spiral-matrix-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
