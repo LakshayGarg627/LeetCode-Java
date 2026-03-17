@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3531-count-covered-buildings](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3531-count-covered-buildings) |
 | [3843-first-element-with-unique-frequency](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3843-first-element-with-unique-frequency) |
 ## String
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2211-count-collisions-on-a-road) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3451-string-compression-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3451-string-compression-iii) |
