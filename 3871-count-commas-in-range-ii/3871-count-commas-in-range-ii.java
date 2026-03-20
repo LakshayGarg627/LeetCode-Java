@@ -12,8 +12,10 @@ class Solution {
         if(n<1000){
             return 0;
         }
+        String str=Long.toString(n);
         long count=0;
-        int len=size(n);
+        // int len=size(n);
+        int len=str.length();
         if(len==4 || len==5 || len==6){
             count=count+(n-1000+1);
         }else if(len==7 || len==8 || len==9){
