@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1856-maximum-subarray-min-product](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1856-maximum-subarray-min-product) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0921-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Union Find
