@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3531-count-covered-buildings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3634-minimum-removals-to-balance-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3643-flip-square-submatrix-vertically) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3843-first-element-with-unique-frequency](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3843-first-element-with-unique-frequency) |
 ## Dynamic Programming
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3643-flip-square-submatrix-vertically](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3643-flip-square-submatrix-vertically) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Union Find
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
+| [3643-flip-square-submatrix-vertically](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
 | ------- |
