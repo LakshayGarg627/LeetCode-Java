@@ -1,4 +1,3 @@
-// TC- O(n)
 class Solution {
     public void reverse(int nums[]){
         int n=nums.length;
@@ -32,7 +31,6 @@ class Solution {
                 break;
             }
         }
-        // Reversing the array from pivot+1 to n
         int i=pivot+1;
         int j=n-1;
         while(i<=j){
@@ -42,61 +40,5 @@ class Solution {
             i++;
             j--;
         }
-
-        
-        
     }
-} 
-// This code is not optimized and giving tle  O(n!)
-// class Solution {
-//     public void perm(List<Integer> temp,int idx,int n,Set<List<Integer>> result){
-//         if(idx==n){
-//             result.add(new ArrayList<>(temp));   
-//             return;
-//         }
-//         for(int i=idx;i<n;i++){
-//             swap(temp,idx,i);
-//             perm(temp,idx+1,n,result);
-//             swap(temp,idx,i);
-//         }
-//     }
-//     public void swap(List<Integer> temp,int idx,int i){
-//         int c=temp.get(idx);
-//         temp.set(idx,temp.get(i));
-//         temp.set(i,c);
-//     }
-//     public void nextPermutation(int[] nums) {
-//         int n=nums.length;
-//         List<Integer> temp=new ArrayList<>();
-//         for(int i=0;i<nums.length;i++){
-//             temp.add(nums[i]);
-//         }
-//         List<Integer> original=new ArrayList<>(temp);
-//         Set<List<Integer>> uniquePerms = new HashSet<>();
-
-//         perm(temp,0,n,uniquePerms);
-
-//         List<List<Integer>> result = new ArrayList<>(uniquePerms);
-
-//         result.sort((a, b) -> {
-//             for (int i = 0; i < a.size(); i++) {
-//                 int diff = a.get(i) - b.get(i);
-//                 if (diff != 0) return diff;
-//             }
-//             return 0;
-//         });
-//         int idx=0;
-//         for(int i=0;i<result.size();i++){
-//             if(result.get(i).equals(original)){
-//                 idx=i;
-//                 break;
-//             }
-//         }
-//         if (idx == result.size() - 1) idx = 0;
-//         else idx++;
-
-//         List<Integer> next = result.get(idx);
-//         for (int i = 0; i < n; i++) nums[i] = next.get(i);
-
-//     }
-// }
+}
