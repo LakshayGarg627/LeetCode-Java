@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1306-jump-game-iii) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1856-maximum-subarray-min-product](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1856-maximum-subarray-min-product) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2073-time-needed-to-buy-tickets) |
