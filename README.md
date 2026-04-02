@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
