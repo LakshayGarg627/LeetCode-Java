@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1856-maximum-subarray-min-product](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1856-maximum-subarray-min-product) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2073-time-needed-to-buy-tickets) |
