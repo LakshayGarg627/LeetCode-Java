@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0059-spiral-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0921-spiral-matrix-iii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0059-spiral-matrix-ii) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0079-word-search) |
