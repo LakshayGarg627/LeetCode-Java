@@ -17,7 +17,7 @@ class Solution {
             }
             map.get(sorted_String).add(str);
         }
-        System.out.println(map);
+        
         for(String key:map.keySet()){
             result.add(map.get(key));
         }
