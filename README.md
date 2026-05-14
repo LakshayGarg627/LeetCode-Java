@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2784-check-if-array-is-good](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3531-count-covered-buildings](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3531-count-covered-buildings) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2784-check-if-array-is-good](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [2784-check-if-array-is-good](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2784-check-if-array-is-good) |
 | [3531-count-covered-buildings](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3531-count-covered-buildings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3634-minimum-removals-to-balance-array) |
 ## Trie
