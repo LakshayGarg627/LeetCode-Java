@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2540-minimum-common-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3531-count-covered-buildings](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3531-count-covered-buildings) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2540-minimum-common-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2784-check-if-array-is-good) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [2540-minimum-common-value](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
