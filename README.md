@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0130-surrounded-regions) |
 | [0140-word-break-ii](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [3843-first-element-with-unique-frequency](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/3843-first-element-with-unique-frequency) |
