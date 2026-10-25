@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0432-all-oone-data-structure) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshayGarg627/LeetCode-Java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
